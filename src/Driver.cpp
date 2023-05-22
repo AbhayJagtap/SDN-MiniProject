@@ -36,16 +36,16 @@ int main()
 	Controller r;
 	
 	//It will be used for transmision, messgae transmitted
-	string msgArray[9] = {      "This is project team of developer",
-	                       "Hello Everyone !!",
-	                       "Welcome to our project",
-	                       "Software Defined Wireless Sensor network",
-	                       "We are here for Minor 2 final presentation",
-	                       "Our mentor is Dr Amit singh",
-	                       "We have 4 member in our team",
-	                       "Pradeep sir is my AC",
-	                       "We are from oss"
-	                       
+	string msgArray[9] = {      
+				     "Good Morning",
+	                       "Good Afternoon",
+	                       "Good Evening",
+	                       "Good Night",
+	                       "Group No.8",
+	                       "Subject: SDN",
+	                       "Abhay,Isha,Trusha and Akhilesh",
+	                       "Computer Engineering",
+	                       "PES Modern College"
 				   };
 				  
 	/*************************************************Topology Creating Section********************************/			  
